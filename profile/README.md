@@ -1,6 +1,6 @@
 # Open Custody Protocol
 
-![Open Custody Protocol logo](https://i.ibb.co/GkXqMXC/OCP-Logo-White.png)
+<img src="https://i.ibb.co/GkXqMXC/OCP-Logo-White.png)" width="200" height="auto"> 
 
 Repositories of Open Custody Protocol and its services. 
 
